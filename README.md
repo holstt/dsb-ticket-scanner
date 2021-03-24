@@ -16,9 +16,23 @@ Furthermore, you have to make a new search to show result for another date.
 Lastly, it is useful to know how ticket prices develop over time, so you know how many days in advance you should buy your ticket to avoid paying overprice. 
 
 
+## About
 
+> TODO: 
+> - Describe architecture 
 
+## Getting Started
 
+> TODO: 
+> - Run in docker
+> - Notification settings (discord/mail)
+
+## Usage 
+
+> TODO:
+> - Insert screenshot, demo gif, code examples... 
+
+## Milestones 
 
 
 
