@@ -32,7 +32,11 @@ Lastly, it is useful to know how ticket prices develop over time, so you know ho
 > TODO:
 > - Insert screenshot, demo gif, code examples... 
 
-## Milestones 
+## Project TODO
 
-
+- [ ] Push code to repo
+- [ ] Ensure basic functionality OK + refactor old code
+- [ ] Make GUI - either desktop (WPF) or web
+- [ ] Implement long running process that scans ticket prices over time
+- [ ] Implement notifications
 
