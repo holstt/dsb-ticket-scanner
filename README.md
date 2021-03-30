@@ -1,4 +1,6 @@
 # DsbTicketScanner
+![dotnet](https://img.shields.io/badge/dot--net--core-3.1-blue)
+
 This application scans and visualizes ticket prices from dsb.dk (the Danish train operating company).
 
 Features include: 
@@ -39,4 +41,4 @@ Lastly, it is useful to know how ticket prices develop over time, so you know ho
 - [ ] Make GUI - either desktop (WPF) or web
 - [ ] Implement long running process that scans ticket prices over time
 - [ ] Implement notifications
-
+- [ ] Migrate to .NET 5
