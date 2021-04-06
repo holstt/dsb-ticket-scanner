@@ -1,4 +1,4 @@
-# DsbTicketScanner
+# Dsb Ticket Scanner
 ![dotnet](https://img.shields.io/badge/dot--net--core-3.1-blue)
 
 This application scans and visualizes ticket prices from dsb.dk (the Danish train operating company).
