@@ -1,5 +1,7 @@
 # Dsb Ticket Scanner
 ![dotnet](https://img.shields.io/badge/dot--net--core-3.1-blue)
+![csharp](https://img.shields.io/badge/C%23-8-blue)
+![ide](https://img.shields.io/badge/IDE-vs2019-blue)
 
 This application scans and visualizes ticket prices from dsb.dk (the Danish train operating company).
 
@@ -25,9 +27,16 @@ Lastly, it is useful to know how ticket prices develop over time, so you know ho
 
 ## Getting Started
 
-> TODO: 
-> - Run in docker
+> TODO:
 > - Notification settings (discord/mail)
+
+#### Native
+Clone the project: 
+1. `git clone https://github.com/roedebaron/dsb-ticket-scanner`
+2. `cd aau-schedule-scraping/DsbTicketScanner.Api`
+3. Run `dotnet run`. This will automatically download all dependencies, build the project and then run the service. 
+4. If no other port has been specified in the configuration, the service is now running on port 5000. 
+
 
 ## Usage 
 
@@ -40,5 +49,5 @@ Lastly, it is useful to know how ticket prices develop over time, so you know ho
 - [ ] Ensure basic functionality OK + refactor old code
 - [ ] Make GUI - either desktop (WPF) or web
 - [ ] Implement long running process that scans ticket prices over time
-- [ ] Implement notifications
+- [ ] Implement notifications. Discord webhook?
 - [ ] Migrate to .NET 5
