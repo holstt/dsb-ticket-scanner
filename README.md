@@ -30,10 +30,18 @@ Lastly, it is useful to know how ticket prices develop over time, so you know ho
 > TODO:
 > - Notification settings (discord/mail)
 
-#### Native
+## Running the application
+
+
+### Installer
+
+An .exe installer is provided in the latest release package.
+
+### Running from source
+
 Clone the project: 
 1. `git clone https://github.com/roedebaron/dsb-ticket-scanner`
-2. `cd aau-schedule-scraping/DsbTicketScanner.Api`
+2. `cd dsb-ticket-scanner/DsbTicketScanner.Api`
 3. Run `dotnet run`. This will automatically download all dependencies, build the project and then run the service. 
 4. If no other port has been specified in the configuration, the service is now running on port 5000. 
 
