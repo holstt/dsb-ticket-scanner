@@ -1,3 +1,5 @@
+> :warning: Work in progress. Code will follow eventually :-) 
+
 # Dsb Ticket Scanner
 ![dotnet](https://img.shields.io/badge/dot--net--core-5.0-blue)
 ![csharp](https://img.shields.io/badge/C%23-9-blue)
